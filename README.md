@@ -1,24 +1,26 @@
-# weather
+# Simple Weather App
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
+## Title
 ```
-npm run build
+A Weather App
 ```
+## Description
+```
+An VueJS weather app.
+- Temperature, windspeed, UV index and pressure
+- Search cities for weather
+- Save preferred cities
 
-### Lints and fixes files
-```
-npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies Used
+```
+This app is built using VueJs. Preferred cities are saved on localStorage
+
+```
+
+Demo:
+http://simple-weather-e9.herokuapp.com/
+
